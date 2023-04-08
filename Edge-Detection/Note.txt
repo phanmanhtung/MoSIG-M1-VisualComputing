@@ -1,0 +1,2 @@
+# read the information into pgm file: cat your_file.pgm
+# After 'make all', go './pgmtopgm mandrill.pgm > test.pgm (purpose: compression)
